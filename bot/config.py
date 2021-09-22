@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "1854368657:AAH55FgcHbonhIAEtzTzdhgd6cMigf5H11c"
-    APP_ID = "1971546"
-    API_HASH = "b994bccad6118cd6fb6d091b9bbfe5cf"
-    DATABASE_URL = "postgres://xzikoxfjzpzvph:a391d7f81f05edb4206c405850fc7ad021470da8ae615c34fddde71a055a54a6@ec2-52-0-114-209.compute-1.amazonaws.com:5432/d3fg2ul81hd69t"
-    SUDO_USERS = "1331188677" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/lkhitech"
+    BOT_TOKEN = "2045198517:AAH9IGT-7T9DM7K4EZgNfIppvKddsK5ZzPk"
+    APP_ID = "7963542"
+    API_HASH = "97abf9b730e7fae3d7e9c5dd240885c1"
+    DATABASE_URL = "postgres://rhyadnnqpultdo:61b470747a7b0a293bca4aefba2e39758be945456e2c692ff70371e2e0034d47@ec2-54-81-126-150.compute-1.amazonaws.com:5432/d53vdacq2j3qbr"
+    SUDO_USERS = "1807485738" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/sN1bzYtFxRliY2Vl"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "211441795261-cn3g6m1tios1291d8gd8mul4vkmc2grb.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "HENHM0YRHdVvAWtUK7S7DRiY"
+    G_DRIVE_CLIENT_ID = "1078983673641-352d4ejngo5a42jkknsiu9k8o6piuu97.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "2YQSbGzrI9RKeCE8t8I3ieY5"
 
 
 class BotCommands:
@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**Hi there [𝓜𝓻,𝓙𝓸𝓴𝓮𝓻](https://telegra.ph/file/6525d89de5b72003d80fa.png) {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "**Dhandam Ra Dhootha(https://telegra.ph/file/6525d89de5b72003d80fa.png) {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
 
     HELP_MSG = [
         ".",
